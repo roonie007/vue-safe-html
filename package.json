@@ -18,9 +18,6 @@
     "sanitize",
     "strip"
   ],
-  "engines": {
-    "node": "^14.15.1"
-  },
   "license": "SEE LICENSE IN 'LICENSE'",
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
